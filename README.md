@@ -3,7 +3,7 @@
 ## The Google Cloud Developer's Visual Notes
 Every product in the Google Cloud family described in the visual sketchnote format to grasp the capability of the tools quickly and easily.
 
-Pull requests are welcome on README.md (this file).
+Pull requests are welcome on README.md 
 
 <a target="_blank" href="/images/ComputeOptions.jpg"><img border="1" alt="Where should I run my stuff on Google Cloud" src="/images/ComputeOptions.jpg"></a>
 
